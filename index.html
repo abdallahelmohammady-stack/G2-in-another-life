@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>الصفحة الرئيسية</title>
+<link rel="icon" href="favicon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Arabic:wght@400;500;600;700&family=Space+Grotesk:wght@500;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<div class="wrap">
+
+  <!-- ===== Header ===== -->
+  <header class="masthead">
+    <div class="mast-top">
+      <div class="title-block">
+        <h1>الصفحة الرئيسية<span class="dot">.</span></h1>
+        <p>made by abdallah elmohammady</p>
+      </div>
+      <div class="mast-actions">
+        <button class="btn btn-icon" id="themeBtn" title="تبديل الوضع الليلي"></button>
+      </div>
+    </div>
+
+    <div class="stats">
+      <div class="stat">الإجمالي <b id="stTotal">0</b></div>
+      <div class="stat">منشور <b id="stLive">0</b></div>
+      <div class="stat">تحت التطوير <b id="stWip">0</b></div>
+    </div>
+
+    <div class="toolbar">
+      <div class="search">
+        <svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
+        <input type="text" id="searchInput" placeholder="ابحث بالاسم أو الرابط أو الوصف...">
+      </div>
+      <select class="sort" id="sortSel">
+        <option value="manual">ترتيبي الخاص</option>
+        <option value="newest">الأحدث إضافة</option>
+        <option value="oldest">الأقدم إضافة</option>
+        <option value="name">الاسم (أ - ي)</option>
+      </select>
+    </div>
+  </header>
+
+  <!-- ===== Cards ===== -->
+  <main class="grid" id="grid"></main>
+</div>
+
+<div class="toast" id="toast"></div>
+
+<script src="js/viewer.js"></script>
+</body>
+</html>
