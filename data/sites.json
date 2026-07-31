@@ -22,47 +22,18 @@
     "updatedAt": 1785414416823
   },
   {
-    "id": "ms1ginfkvbm09w",
-    "name": "موقع قسم CCE",
-    "url": "https://cce-materials.vercel.app",
-    "desc": "",
-    "tags": [],
+    "id": "ms8cwwhn92nmgs",
+    "name": "مكتبة مواد كلية الهندسة",
+    "url": "https://engineering-mansoura.vercel.app/#",
+    "desc": "الموقع عباره عن بارتيشنز كل بارتيشن جواه محتوى القسم بتاعه",
+    "tags": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
     "status": "live",
-    "cover": "covers/3.png",
-    "createdAt": 1785049725728,
-    "updatedAt": 1785414437089
-  },
-  {
-    "id": "ms25e7jdc3s7wt",
-    "name": "موقع قسم اتصالات والكترونيات",
-    "url": "https://ece-materials.vercel.app/",
-    "desc": "",
-    "tags": [],
-    "status": "live",
-    "cover": "covers/4.png",
-    "createdAt": 1785091508906,
-    "updatedAt": 1785414458567
-  },
-  {
-    "id": "ms1izxhcxhzlbd",
-    "name": "موقع قسم ميكانيكا باور",
-    "url": "https://mpe-materiels.vercel.app/",
-    "desc": "",
-    "tags": [],
-    "status": "live",
-    "cover": "covers/5.png",
-    "createdAt": 1785053891136,
-    "updatedAt": 1785414478417
-  },
-  {
-    "id": "ms1gm32lnkurgf",
-    "name": "موقع اعدادي",
-    "url": "https://engineering-materials.vercel.app/",
-    "desc": "",
-    "tags": [],
-    "status": "live",
-    "cover": "covers/6.png",
-    "createdAt": 1785049885965,
-    "updatedAt": 1785414498692
+    "cover": "covers/7.png",
+    "createdAt": 1785466935419,
+    "updatedAt": 1785466935419
   }
 ]
