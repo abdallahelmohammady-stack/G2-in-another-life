@@ -8,7 +8,7 @@
     "status": "live",
     "cover": "covers/1.png",
     "createdAt": 1785047304729,
-    "updatedAt": 1785414382055
+    "updatedAt": 1785502338316
   },
   {
     "id": "ms1gddsozjtysd",
@@ -35,5 +35,16 @@
     "cover": "covers/7.png",
     "createdAt": 1785466935419,
     "updatedAt": 1785466935419
+  },
+  {
+    "id": "ms8xxj4mng2ai7",
+    "name": "موقع مواد قسم حاسبات ونظم تحكم",
+    "url": "https://cse-mansoura.vercel.app/",
+    "desc": "",
+    "tags": [],
+    "status": "live",
+    "cover": "",
+    "createdAt": 1785502236695,
+    "updatedAt": 1785502236695
   }
 ]
