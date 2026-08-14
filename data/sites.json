@@ -1,5 +1,31 @@
 [
   {
+    "id": "ms8cwwhn92nmgs",
+    "name": "مكتبة مواد كلية الهندسة",
+    "url": "https://engineering-mansoura.vercel.app/#",
+    "desc": "الموقع عباره عن بارتيشنز كل بارتيشن جواه محتوى القسم بتاعه",
+    "tags": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "status": "live",
+    "cover": "covers/7.png",
+    "createdAt": 1785466935419,
+    "updatedAt": 1785466935419
+  },
+  {
+    "id": "ms8xxj4mng2ai7",
+    "name": "موقع مواد قسم حاسبات ونظم تحكم",
+    "url": "https://cse-mansoura.vercel.app/",
+    "desc": "Created by Marwan Elmoghazy",
+    "tags": [],
+    "status": "live",
+    "cover": "covers/8.jpg",
+    "createdAt": 1785502236695,
+    "updatedAt": 1786698993588
+  },
+  {
     "id": "ms1f2rdlu2404a",
     "name": "Engineering Roadmap",
     "url": "https://roadmap-for-engineering-specialize.vercel.app/",
@@ -22,29 +48,14 @@
     "updatedAt": 1785414416823
   },
   {
-    "id": "ms8cwwhn92nmgs",
-    "name": "مكتبة مواد كلية الهندسة",
-    "url": "https://engineering-mansoura.vercel.app/#",
-    "desc": "الموقع عباره عن بارتيشنز كل بارتيشن جواه محتوى القسم بتاعه",
-    "tags": [
-      "HTML",
-      "CSS",
-      "JavaScript"
-    ],
-    "status": "live",
-    "cover": "covers/7.png",
-    "createdAt": 1785466935419,
-    "updatedAt": 1785466935419
-  },
-  {
-    "id": "ms8xxj4mng2ai7",
-    "name": "موقع مواد قسم حاسبات ونظم تحكم",
-    "url": "https://cse-mansoura.vercel.app/",
-    "desc": "",
+    "id": "mssqf292h89sdl",
+    "name": "Mansoura Scholarships",
+    "url": "https://manu-scholarships.vercel.app/",
+    "desc": "Here, you will find everything you need — training, team opportunities, scholarships, and programs.",
     "tags": [],
     "status": "live",
-    "cover": "covers/8.jpg",
-    "createdAt": 1785502236695,
-    "updatedAt": 1785505350808
+    "cover": "covers/9.jpeg",
+    "createdAt": 1786698941222,
+    "updatedAt": 1786698941222
   }
 ]
