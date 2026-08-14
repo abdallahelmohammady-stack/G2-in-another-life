@@ -49,13 +49,13 @@
   },
   {
     "id": "mssqf292h89sdl",
-    "name": "Mansoura Scholarships",
+    "name": "ما لا يسع طالب هندسة المنصورة جهله",
     "url": "https://manu-scholarships.vercel.app/",
     "desc": "Here, you will find everything you need — training, team opportunities, scholarships, and programs.",
     "tags": [],
     "status": "live",
     "cover": "covers/9.jpeg",
     "createdAt": 1786698941222,
-    "updatedAt": 1786698941222
+    "updatedAt": 1786699708989
   }
 ]
