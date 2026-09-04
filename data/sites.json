@@ -15,6 +15,17 @@
     "updatedAt": 1785466935419
   },
   {
+    "id": "mtnda5iptv71lh",
+    "name": "GPA Calculator",
+    "url": "https://uni-gpa-calculator.vercel.app/",
+    "desc": "Built by Eng. Ahmed Magdi",
+    "tags": [],
+    "status": "live",
+    "cover": "covers/3.png",
+    "createdAt": 1788551328625,
+    "updatedAt": 1788551328625
+  },
+  {
     "id": "ms1f2rdlu2404a",
     "name": "Engineering Roadmap",
     "url": "https://roadmap-for-engineering-specialize.vercel.app/",
