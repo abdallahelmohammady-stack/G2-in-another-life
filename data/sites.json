@@ -2,7 +2,7 @@
   {
     "id": "ms8cwwhn92nmgs",
     "name": "مكتبة مواد كلية الهندسة",
-    "url": "https://engineering-mansoura.vercel.app/#",
+    "url": "https://cce-materials-2030.vercel.app/",
     "desc": "الموقع عباره عن بارتيشنز كل بارتيشن جواه محتوى القسم بتاعه",
     "tags": [
       "HTML",
@@ -12,7 +12,7 @@
     "status": "live",
     "cover": "covers/7.png",
     "createdAt": 1785466935419,
-    "updatedAt": 1785466935419
+    "updatedAt": 1793634905488
   },
   {
     "id": "mtnda5iptv71lh",
